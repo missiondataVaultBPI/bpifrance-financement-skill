@@ -24,7 +24,7 @@ Copiez le dossier `aides-publiques-financement/` dans `~/.claude/skills/` (Claud
 Bretagne partielle ; certains règlements en PDF illisibles par les outils (Normandie, Nouvelle-Aquitaine) ; règlement Innov'up (2021) à vérifier ; règles de sous-traitance, de « dépense engagée » et de « sous condition » non publiées ; subrogation TVA chez Atlas non confirmée.
 
 ## Corrections
-Une erreur, une règle périmée, une source meilleure ? Ouvrez une *issue* avec l'URL de la page officielle. La base est régénérée à partir de ses sources, avec une date de version.
+Une erreur, une règle périmée, une source meilleure ? Ouvrez une *issue* avec l'URL de la page officielle, ou écrivez à **contact@missiondata.fr**. La base est régénérée à partir de ses sources, avec une date de version.
 
 ## Licence et droits
 Les textes cités restent la propriété de leurs auteurs (Bpifrance, Régions, administrations). Seuls de courts extraits, avec leur URL, sont reproduits. Aucune licence n'est définie pour ce dépôt : vous pouvez le consulter et le tester ; pour toute réutilisation, contactez l'auteur via une issue.

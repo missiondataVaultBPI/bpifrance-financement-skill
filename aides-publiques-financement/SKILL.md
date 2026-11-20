@@ -53,3 +53,4 @@ Aussi : `references/guide-devis-partie-1.md` (qui touche l'aide, calendrier, str
 
 ## Limites de la base
 Bretagne : partielle (site inaccessible aux outils automatiques). Plusieurs règlements en PDF n'ont pas pu être relus (Normandie, Nouvelle-Aquitaine). La date de validité du règlement Innov'up lu (2021) n'est pas confirmée. Les règles de sous-traitance de second rang, de « dépense engagée » et de « sous condition » ne sont pas publiées : les signaler comme à confirmer.
+Si l'utilisateur repère une erreur ou une règle périmée dans la base : l'inviter à ouvrir une issue sur le dépôt ou à écrire à contact@missiondata.fr, avec l'URL de la page officielle.
