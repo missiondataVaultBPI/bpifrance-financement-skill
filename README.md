@@ -2,6 +2,8 @@
 
 Un skill pour **se renseigner sur les aides publiques françaises** (Bpifrance, Régions, formation, crédits d'impôt) et **préparer un dossier ou un devis finançable**, avec **l'URL officielle et un extrait pour chaque affirmation**.
 
+> **Version bêta : testez le skill et signalez les erreurs (onglet *Issues*).** Il n'a pas encore été évalué à grande échelle.
+>
 > **Ce projet n'est affilié ni à Bpifrance, ni aux Régions, ni à l'État.** Il synthétise des pages publiques lues les 19 et 20 novembre 2026 (version **2026-11-20**). Ce n'est **ni un avis juridique, ni un avis fiscal, ni un conseil financier**. Une aide n'est jamais garantie : elle est demandée par le bénéficiaire et décidée par l'organisme qui la gère. Vérifiez toujours auprès de l'organisme avant de signer ou de payer quoi que ce soit.
 
 ## Contenu
@@ -25,4 +27,4 @@ Bretagne partielle ; certains règlements en PDF illisibles par les outils (Norm
 Une erreur, une règle périmée, une source meilleure ? Ouvrez une *issue* avec l'URL de la page officielle. La base est régénérée à partir de ses sources, avec une date de version.
 
 ## Licence et droits
-Les textes cités restent la propriété de leurs auteurs (Bpifrance, Régions, administrations). Seuls de courts extraits, avec leur URL, sont reproduits. La licence du contenu de ce dépôt n'est pas encore définie.
+Les textes cités restent la propriété de leurs auteurs (Bpifrance, Régions, administrations). Seuls de courts extraits, avec leur URL, sont reproduits. Aucune licence n'est définie pour ce dépôt : vous pouvez le consulter et le tester ; pour toute réutilisation, contactez l'auteur via une issue.
