@@ -40,7 +40,7 @@ Voir la table « Affirmations et sources » en fin de fiche.
 | N° | Affirmation | Étiquette | Extrait | URL | Note |
 |---|---|---|---|---|---|
 | 1 | DIVA : diagnostic pris en charge à 100 % par le dispositif DIVA | [ÉCRIT] | « Pris en charge à 100 % par le dispositif DIVA » | https://www.paysdelaloire.fr/accelerateur-ia/accompagnement/diagnostic-des-besoins-et-plan-dactions | pays-de-la-loire |
-| 2 | DIVA : AMOA et tests de solutions IA à partir de 806 €/jour | [ÉCRIT] | « À partir de 806 €/jour » | https://www.paysdelaloire.fr/accelerateur-ia/investissement/amoa-de-votre-transformation-numerique-et-tests-de-solutions | pays-de-la-loire |
+| 2 | DIVA : AMOA et tests de solutions IA à partir de 806 €/jour ; tarif non retrouvé sur la page relue le 2026-11-20 (lecture reformulée), à reconfirmer | [NON VÉRIFIÉ] | « À partir de 806 €/jour » | https://www.paysdelaloire.fr/accelerateur-ia/investissement/amoa-de-votre-transformation-numerique-et-tests-de-solutions | pays-de-la-loire |
 | 3 | DIVA : prestations réalisées par DIVA lui-même | [ÉCRIT] | « DIVA : prestations par DIVA lui-même. » | https://www.paysdelaloire.fr/accelerateur-IA | pays-de-la-loire |
 | 4 | Loire Valley Data Hub : diagnostic de maturité gratuit, financé par l'UE | [ÉCRIT] | « réaliser gratuitement un diagnostic » | https://www.devup-centrevaldeloire.fr/actualites/accelerez-votre-transition-numerique-avec-le-loire-valley-data-hub/ | centre-val-de-loire |
 | 5 | Loire Valley Data Hub : formation IA 100 % prise en charge par l'UE | [ÉCRIT] | « 100% prise en charge par l'Union européenne » | https://www.devup-centrevaldeloire.fr/actualites/accelerez-votre-transition-numerique-avec-le-loire-valley-data-hub/ | centre-val-de-loire |

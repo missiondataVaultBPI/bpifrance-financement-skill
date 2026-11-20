@@ -66,7 +66,7 @@ Détail : (voir table), (voir table), (voir table), (voir table), (voir table).
 | **Après Qualiopi** | Demande du client auprès de son OPCO. **[NON PUBLIÉ]** : règle « avant ou après démarrage » (Atlas, OPCO 2i, Opcommerce non lus) [96]. Le guide ne dit donc plus que la demande doit précéder la formation chez Atlas. |
 | **Quel OPCO ?** | Le rattachement suit la **convention collective du client** (OPCO EP, L. 2261-2) [97]. Secteurs : Atlas (conseil), OPCO 2i (industrie), Opcommerce, OPCO Santé, Constructys (pages d'accueil). La table officielle IDCC vers OPCO n'a pas pu être lue (site bloqué) : **à confirmer** client par client [98]. |
 | **OPCO Atlas** (lu en premier) | **[ÉCRIT]** Moins de 50 salariés : prise en charge selon un barème de branche [99]. 50 salariés et plus : versement volontaire uniquement [100]. |
-| **Qualiopi 2026** | Un changement au 1er novembre 2026 est annoncé par Atlas [101] ; détails obtenus seulement via un site privé (`tierce - a recouper`). Décret 2026-728 : texte officiel non lu [102]. |
+| **Qualiopi 2026** | Le décret n° 2026-728 du 1er août 2026 (Légifrance, lu le 2026-11-20) remplace la liste des indicateurs, numérotés de 1 à 33 [146]. **Indicateur 27 : le prestataire qui sous-traite doit s'assurer de la conformité au référentiel et en assurer la traçabilité dans les contrats de sous-traitance** [147]. Indicateur 33 : évaluation des enseignements par les apprenants [148]. Date du 1er novembre 2026 annoncée par Atlas [101] ; arrêté du 28 octobre 2026 et éventuelle transition : non lus. |
 
 ### TVA
 **[ÉCRIT]** : l'exonération de TVA sur la formation exige une **attestation de la DREETS (formulaire 3511-SD)**, le NDA ne suffit pas [103][104]. Sans cette attestation, TVA à 20 % [105]. Indiquer HT et TTC sur le devis.
@@ -153,7 +153,7 @@ Synthèse de pages publiques, non-conseil fiscal ; taux et plafonds à vérifier
 - À vérifier avec le comptable du client : PME au sens UE et au réel, projet de produit nouveau, agrément éventuel du prestataire, montant de subvention à déduire, compteur de minimis.
 
 ### Hors périmètre
-- Les **autres OPCO** que Atlas et OPCO EP (règles avant/après démarrage non lues), le détail du décret 2026-728 et l'indicateur « organisme récent » [96][102].
+- Les **autres OPCO** que Atlas et OPCO EP (règles avant/après démarrage non lues), l'arrêté du 28 octobre 2026 (transition éventuelle) et l'indicateur « organisme récent » [96].
 - Les **PDF d'appels à candidatures** Bpifrance (experts) : non lus.
 - La **Bretagne** : sources officielles bloquées, aucune conclusion possible.
 - Le **modèle économique** de l'agrément individuel (tarif journalier de l'expert : non publié).
@@ -309,3 +309,6 @@ Les extraits web ont souvent été lus via un outil qui **reformule**. Les règl
 | 143 | Innov'up : avenant n°14 du 10 novembre 2026, dotation complémentaire de 3,3 M€ au titre de 2026 | [ÉCRIT] | « D’apporter une dotation complémentaire de 3 300 000 euros au titre de l’année 2026 » | https://www.iledefrance.fr/actes/deliberations/CP2026-303RAP.pdf | idf-innovup |
 | 144 | Innov'up : l'avenant n°14 laisse inchangées les autres modalités de la convention | [ÉCRIT] | « Les autres modalités de la convention du 8 mars 2017 non modifiées par le présent avenant restent inchangées. » | https://www.iledefrance.fr/actes/deliberations/CP2026-303RAP.pdf | idf-innovup |
 | 145 | Innov'up : crédits destinés à de nouveaux projets jusqu'à la fin de l'année 2026 | [ÉCRIT] | « Afin de soutenir de nouveaux projets d’innovation jusqu’à la fin de l’année 2026, il est proposé d’adopter un avenant N°14 » | https://www.iledefrance.fr/actes/deliberations/CP2026-303RAP.pdf | idf-innovup |
+| 146 | Décret n° 2026-728 du 1er août 2026 relatif au référentiel national qualité (texte officiel lu) | [ÉCRIT] | « Décret n° 2026-728 du 1er août 2026 relatif au référentiel national sur la qualité des actions concourant au développement des compétences » | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509 | s02-qualiopi-exigences-2026 |
+| 147 | Qualiopi : indicateur 27, le prestataire qui sous-traite s'assure de la conformité au référentiel et en assure la traçabilité dans les contrats | [ÉCRIT] | « il s'assure du respect de la conformité au présent référentiel et en assure la traçabilité dans les contrats de sous-traitance » | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509 | s02-qualiopi-exigences-2026 |
+| 148 | Qualiopi : indicateur 33, évaluation des contenus et des enseignements par les apprenants | [ÉCRIT] | « Le prestataire met en place un dispositif d'évaluation des contenus et des enseignements par les apprenants, distinct du recueil général de satisfaction » | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509 | s02-qualiopi-exigences-2026 |

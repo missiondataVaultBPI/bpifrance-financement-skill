@@ -33,7 +33,7 @@ TVA : exonération sur attestation DREETS (3511-SD) [19][20], sinon 20 % [21] (v
 - Le guide n'intègre pas les corrections S02 (voir table).
 
 ## Questions ouvertes
-Nouvelles exigences Qualiopi au 1er novembre 2026 (contenu non lu) [28] ; décret 2026-728 [29] ; table IDCC vers OPCO ; NDA du sous-traitant [15] (voir table).
+Nouvelles exigences Qualiopi au 1er novembre 2026 [28] : décret 2026-728 lu sur Légifrance [30], dont l'indicateur 27 (traçabilité de la conformité dans les contrats de sous-traitance) [31] ; arrêté du 28 octobre 2026 non lu ; table IDCC vers OPCO ; NDA du sous-traitant [15] (voir table).
 
 ## Sources
 Voir la table « Affirmations et sources » en fin de fiche.
@@ -70,3 +70,6 @@ Voir la table « Affirmations et sources » en fin de fiche.
 | 27 | FNE-Formation 2026 : aucune source officielle ne confirme une ouverture | [NON PUBLIÉ] | — | https://www.akto.fr/fne-formation-tout-savoir-dispositif-specificites-region/ | s02-fne-formation-2026 |
 | 28 | Qualiopi : nouvelles exigences à compter du 1er novembre 2026 (contenu non lu) | [ÉCRIT] | « À compter du 1er novembre 2026, de nouvelles exigences viennent renforcer la certification Qualiopi » (lecture reformulée) | https://www.opco-atlas.fr/conditions-generales.html | s02-qualiopi-exigences-2026 |
 | 29 | Décret n° 2026-728 du 1er août 2026 (source tierce, à recouper) | [ÉCRIT] | « décret n° 2026-728 du 1er août 2026 » (lecture reformulée) | https://www.cnfce.com/actualites/qualiopi-ce-qui-change-au-1er-novembre-2026 | s02-qualiopi-exigences-2026 |
+| 30 | Décret n° 2026-728 du 1er août 2026 relatif au référentiel national qualité (texte officiel lu) | [ÉCRIT] | « Décret n° 2026-728 du 1er août 2026 relatif au référentiel national sur la qualité des actions concourant au développement des compétences » | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509 | s02-qualiopi-exigences-2026 |
+| 31 | Qualiopi : indicateur 27, le prestataire qui sous-traite s'assure de la conformité au référentiel et en assure la traçabilité dans les contrats | [ÉCRIT] | « il s'assure du respect de la conformité au présent référentiel et en assure la traçabilité dans les contrats de sous-traitance » | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509 | s02-qualiopi-exigences-2026 |
+| 32 | Qualiopi : indicateur 33, évaluation des contenus et des enseignements par les apprenants | [ÉCRIT] | « Le prestataire met en place un dispositif d'évaluation des contenus et des enseignements par les apprenants, distinct du recueil général de satisfaction » | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054608509 | s02-qualiopi-exigences-2026 |
