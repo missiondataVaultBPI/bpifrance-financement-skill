@@ -21,7 +21,7 @@ Source IDF : (voir table) (règlement CP2026-303 du 10/11/2026, lu en verbatim) 
 ### Développement IA, projet d'innovation (Île-de-France)
 | Dispositif | Taux / plafond | Condition de date |
 |---|---|---|
-| **Innov'up** (TPE à ETI, hors entreprise individuelle) [33][34] : prestations externes d'un projet RDI [35] | 25 à 70 % [36] ; subvention jusqu'à 500 000 € plus 3 M€ d'avance ou prêt [37] | Toute dépense avant dépôt rend le projet inéligible [38] ; aucune date limite. **Règlement de 2021 : validité à vérifier** ((voir table)) [39] |
+| **Innov'up** (TPE à ETI, hors entreprise individuelle) [33][34] : prestations externes d'un projet RDI [35] | 25 à 70 % [36] ; subvention jusqu'à 500 000 € plus 3 M€ d'avance ou prêt [37] | Toute dépense avant dépôt rend le projet inéligible [38] ; aucune date limite. **Règlement de 2021 : seul texte publié par la Région (page vérifiée le 2026-11-20), validité à confirmer** [39] ; la Région a voté le 9 avril 2026 un avenant de financement au Fonds Innov'up (14 M€ de plus) [141], sans changement de règles mentionné [142] |
 
 Le **développement IA hors R&D** n'est pas financé par PM'up comme tel ; il pourrait l'être en investissement immatériel, **[DÉDUIT]**, à confirmer [40].
 
@@ -304,3 +304,5 @@ Les extraits web ont souvent été lus via un outil qui **reformule**. Les règl
 | 138 | JEI : moins de 8 ans pour les sociétés créées depuis le 01/01/2023 | [ÉCRIT] | « moins de 8 ans pour les sociétés créées depuis le 01/01/2023 » (lecture reformulée) | https://entreprendre.service-public.gouv.fr/vosdroits/F31188 | jei |
 | 139 | JEI : au moins 20 % des charges en R&D | [ÉCRIT] | « au moins 20 % des charges » (lecture reformulée) | https://entreprendre.service-public.gouv.fr/vosdroits/F31188 | jei |
 | 140 | JEI : règle sur les prestataires externes (dépenses de R&D) non publiée | [NON PUBLIÉ] | — | https://entreprendre.service-public.gouv.fr/vosdroits/F31188 | jei |
+| 141 | Innov'up : avenant au Fonds régional voté par la Commission permanente du 9 avril 2026 (14 M€ supplémentaires, capacité de 40 M€ en 2026) | [ÉCRIT] | « l’adoption d’un avenant au Fonds régional Innov’up » (lecture reformulée) | https://www.iledefrance.fr/presse/innovup-la-region-ile-de-france-securise-et-amplifie-son-soutien-linnovation-au-service-du-developpement-economique | idf-innovup |
+| 142 | Innov'up : le communiqué ne mentionne aucun changement de règles ; texte de l'avenant non retrouvé | [DÉDUIT] | — | https://www.iledefrance.fr/presse/innovup-la-region-ile-de-france-securise-et-amplifie-son-soutien-linnovation-au-service-du-developpement-economique | idf-innovup |

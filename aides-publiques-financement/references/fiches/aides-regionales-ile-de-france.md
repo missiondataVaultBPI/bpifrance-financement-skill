@@ -28,7 +28,7 @@ Voir tableau ; versements non lus.
 ## Contradictions entre sources
 - Plafond et date : (voir table) donne PM'up à 250 000 € et « avant-démarrage non précisé », alors que (voir table) précise le dépôt avant démarrage [22] et 375 000 € dans un cas [3].
 - Pack IA : « appel ouvert » sans date [30], mais le texte de (voir table) conclut que Pack IA est fermé [31] ; sources de 2018/2021 (voir table).
-- Innov'up repose sur un règlement de 2021 de validité à confirmer [32] (voir table).
+- Innov'up repose sur un règlement de 2021, le seul publié par la Région à ce jour, de validité à confirmer [32]. La Région a voté un avenant au Fonds régional Innov'up le 9 avril 2026 (14 M€ de plus, capacité de 40 M€ en 2026) [33], sans qu'aucun changement de règles soit mentionné [34] (voir table).
 - Le guide classe IDF « règlements non lus » (voir table), désormais dépassé.
 
 ## Questions ouvertes
@@ -71,3 +71,5 @@ Voir la table « Affirmations et sources » en fin de fiche.
 | 30 | Pack IA : appel à candidatures « ouvert » sans date | [ÉCRIT] | « L'appel à candidatures est ouvert ! » (lecture reformulée) | https://www.packia.fr | idf-pack-ia |
 | 31 | Pack IA : conclusion « fermé » de la synthèse IDF | [DÉDUIT] | — | https://www.packia.fr | idf-pack-ia |
 | 32 | Innov'up : règlement lu datant de septembre 2021, validité à confirmer | [ÉCRIT] | « le règlement lu est celui de septembre 2021 » (lecture reformulée) | https://www.iledefrance.fr/aides-et-appels-a-projets/innovup | idf-innovup |
+| 33 | Innov'up : la Commission permanente du 9 avril 2026 a voté un avenant au Fonds régional (14 M€ supplémentaires, capacité d'intervention de 40 M€ en 2026) | [ÉCRIT] | « l’adoption d’un avenant au Fonds régional Innov’up » (lecture reformulée) | https://www.iledefrance.fr/presse/innovup-la-region-ile-de-france-securise-et-amplifie-son-soutien-linnovation-au-service-du-developpement-economique | idf-innovup |
+| 34 | Innov'up : le communiqué ne mentionne aucun changement de taux, de plafonds ni de dépenses éligibles ; texte de l'avenant non retrouvé | [DÉDUIT] | — | https://www.iledefrance.fr/presse/innovup-la-region-ile-de-france-securise-et-amplifie-son-soutien-linnovation-au-service-du-developpement-economique | idf-innovup |
